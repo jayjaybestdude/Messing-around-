@@ -1,2 +1,25 @@
 # Messing-around-
-Idk
+
+Just some simple code for a project. 
+nothing much...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

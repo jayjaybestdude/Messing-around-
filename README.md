@@ -1,7 +1,7 @@
 # BASIC INFO 
 
 
-I've alredy made operating systems in the past, one of them being called GREG OS. I have a demo video here: https://www.youtube.com/watch?v=b85lpqZ_iG4 (copy this into the browser to view.)
+I've alredy made operating systems in the past, one of them being called GREG OS. I have a demo video here: https://www.youtube.com/watch?v=b85lpqZ_iG4 
 
 One fun fact about GREG OS was that it wass made to run on chromebooks or on very low end systems. 
 
